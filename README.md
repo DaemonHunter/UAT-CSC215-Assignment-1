@@ -1,4 +1,3 @@
-# UAT-CSC215-Assignment-1
 # 01 Assignment Game on!
 Finish reading assignment #1: This is not the entire chapter. Hint, the stopping point is important.
 Study the "Game over 3.0" program in your textbook.
